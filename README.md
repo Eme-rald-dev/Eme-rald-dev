@@ -1,8 +1,8 @@
 # Hi there, 
 
 # I'm Joseph Etim 👋
-# 📊 Database Analyst | SQL Expert | Data & BI Analyst
-I am a results-driven Database Analyst and Data Analyst passionate about transforming raw, complex data into actionable business insights. I specialize in database querying, data transformation, and building intuitive visual dashboards that help organizations make data-informed strategic decisions.
+# Database Analyst | Data Analysis & Query Development | SQL Expert
+Data Analyst and Database Specialist crafting clean data pipelines, interactive Power BI dashboards, and actionable business insights.
 
 ## 🛠️ Tech Stack & Favorite Tools
 Databases & Querying: PostgreSQL, SQL (Advanced Querying, Joins, Aggregations, Data Cleaning)
@@ -18,6 +18,7 @@ Business Intelligence: Building clean, executive-ready Power BI reports that tra
 
 
 #🤝 How We Can Collaborate:
+
 I am actively seeking Data Analyst and Database Analyst roles (Full-time, Contract, or Remote).
 
 I am available to collaborate with:
