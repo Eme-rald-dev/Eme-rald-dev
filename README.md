@@ -35,8 +35,8 @@ Individuals & Open-Source Projects: Contributing to analytics initiatives, SQL o
 🎙️ I am an active public speaker and passionate youth mentor, dedicated to helping the next generation navigate and launch impactful careers in tech.
 
 📬 Connect With Me
-LinkedIn: [LinkedIn](www.linkedin.com/in/joseph-etim-69a408331)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/joseph-etim-69a408331)
 
-Email: [Email](joeetim2001@gmail.com)
+Email: [Email](mailto:joeetim2001@gmail.com)
 
 Pronouns: He / Him
