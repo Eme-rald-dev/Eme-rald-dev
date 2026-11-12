@@ -17,7 +17,7 @@ Data Analysis & Query Development: Crafting optimized SQL scripts to extract, cl
 Business Intelligence: Building clean, executive-ready Power BI reports that track key performance metrics and identify trends.
 
 
-#🤝 How We Can Collaborate:
+🤝 How We Can Collaborate:
 
 I am actively seeking Data Analyst and Database Analyst roles (Full-time, Contract, or Remote).
 
